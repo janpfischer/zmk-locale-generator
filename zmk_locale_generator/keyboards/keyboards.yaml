@@ -86,6 +86,7 @@
   filename: de_swiss
 - path: cldr/keyboards/osx/de-t-k0-osx.xml
   filename: de_osx
+  prefix: deosx
 
 # Sorbian
 - path: cldr/keyboards/windows/dsb-t-k0-windows.xml
