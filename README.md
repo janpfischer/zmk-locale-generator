@@ -1,4 +1,4 @@
-# ZMK Locale Generator
+# ZMK Locale Generator 
 
 This Python module generates localized keyboard layout headers for [ZMK](https://zmk.dev) using data from the [Unicode CLDR](https://github.com/unicode-org/cldr) or custom layouts in CLDR format.
 
