@@ -65,6 +65,7 @@ zmk_locale_generator = [
     "keyboards/*",
     "keyboards/cldr/unicode-license.txt",
     "keyboards/cldr/keyboards/windows/*",
+    "keyboards/cldr/keyboards/osx/*",
 ]
 
 [tool.setuptools_scm]
