@@ -84,6 +84,8 @@
   filename: de_belgian_period
 - path: cldr/keyboards/windows/de-CH-t-k0-windows.xml
   filename: de_swiss
+- path: cldr/keyboards/osx/de-t-k0-osx.xml
+  filename: de_osx
 
 # Sorbian
 - path: cldr/keyboards/windows/dsb-t-k0-windows.xml
